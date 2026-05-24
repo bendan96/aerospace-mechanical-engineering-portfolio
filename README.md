@@ -219,22 +219,6 @@ The final prototype remained below the 2 kg regulatory limit while maintaining s
 
 ---
 
-# Upcoming Projects
-
-## Vehicle Racking System
-Commercial vehicle storage and fabrication-focused CAD project.
-
-## Sheet Metal Battery Enclosure
-Manufacturing-oriented enclosure using SOLIDWORKS sheet metal tools.
-
-## Fold-Out Mobile Workstation
-Portable workshop system designed for fabrication and assembly.
-
-## Roof Rack Assembly
-Lightweight fabricated structural system with modular mounting interfaces.
-
----
-
 # Engineering Interests
 
 - CAD Design Engineering
