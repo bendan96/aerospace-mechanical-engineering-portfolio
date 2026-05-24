@@ -234,7 +234,7 @@ The final prototype remained below the 2 kg regulatory limit while maintaining s
 # Contact
 
 ## GitHub
-(Add GitHub URL)
+https://github.com/bendan96/aerospace-mechanical-engineering-portfolio/tree/main
 
 ## Email
 benjaminohidadaniel@gmail.com
