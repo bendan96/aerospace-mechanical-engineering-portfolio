@@ -146,7 +146,6 @@ The entire airframe was specifically designed for additive manufacturing using F
 | Maintenance accessibility | Screw-mounted removable hatches |
 | Wiring management | Integrated cable-routing channels |
 | Weight reduction | Thin-wall shell structure with gyroid infill |
-| CG balancing | Adjustable battery mounting system |
 | Assembly precision | Integrated locating and alignment features |
 
 ---
