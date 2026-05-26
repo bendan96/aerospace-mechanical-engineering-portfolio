@@ -38,5 +38,3 @@ A complete **conceptual to manufactured** fixed-wing UAV designed for short-dura
 - **`manufacturing/`** — 3D printing strategy
 
 ---
-
-**Recommended to explore next**: [UCAV-Aerodynamics](../UCAV-Aerodynamics) | [Viscous-Channel-Flow](../Viscous-Channel-Flow)
