@@ -29,14 +29,13 @@ A complete **conceptual to manufactured** fixed-wing UAV designed for short-dura
 
 ### Summary Reports
 - **[Executive Summary](./summary/executive-summary.md)**
-- **[Key Findings](./summary/key-findings.md)**
 - **[Methodology & CAD Approach](./summary/methodology-overview.md)**
-- **[Discussion](./summary/discussion.md)**
+
 
 ### Key Folders
 - **`cad-design/`** — SOLIDWORKS models, drawings, and assemblies
-- **`figures/`** — Renderings, exploded views, and manufacturing photos
-- **`manufacturing/`** — 3D printing strategy and cost analysis
+- **`figures/`** — CAD photos, exploded views, and manufacturing photos
+- **`manufacturing/`** — 3D printing strategy
 
 ---
 
